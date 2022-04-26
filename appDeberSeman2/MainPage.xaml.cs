@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace appDeberSeman2
-{
+{           
     public partial class MainPage : ContentPage
     {
         public MainPage(string user,string pass)
